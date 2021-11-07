@@ -1,0 +1,43 @@
+appdirs @ file:///pub/devel/python/python-appdirs/python-appdirs-1.4.4-1.noarch/build/dist/appdirs-1.4.4-py2.py3-none-any.whl
+attrs @ file:///pub/devel/python/python-attrs/python-attrs-20.3.0-1.noarch/build/dist/attrs-20.3.0-py2.py3-none-any.whl
+backcall==0.2.0
+blinker==1.4
+chardet @ file:///pub/devel/python/python-chardet/python-chardet-4.0.0-1.noarch/build/dist/chardet-4.0.0-py2.py3-none-any.whl
+click==8.0.3
+decorator==5.1.0
+dnspython==2.1.0
+email-validator==1.1.3
+Flask==2.0.2
+Flask-DebugToolbar==0.11.0
+Flask-SQLAlchemy==2.5.1
+Flask-WTF==0.15.1
+forex-python==1.6
+git-review @ file:///pub/devel/git-review/git-review-2.1.0-1.noarch/build/dist/git_review-2.1.0-py3-none-any.whl
+greenlet==1.1.2
+idna==2.10
+ipython==7.27.0
+itsdangerous==2.0.1
+jedi==0.18.0
+Jinja2==3.0.2
+MarkupSafe==2.0.1
+matplotlib-inline==0.1.3
+parso==0.8.2
+pexpect==4.8.0
+pickleshare==0.7.5
+prompt-toolkit==3.0.20
+psycopg2-binary==2.9.1
+ptyprocess==0.7.0
+Pygments==2.10.0
+pytest @ file:///pub/devel/python/python-pytest/python-pytest-6.2.1-1.noarch/build/dist/pytest-0.0.0-py3-none-any.whl
+pytest-env @ file:///pub/devel/python/python-pytest-env/python-pytest-env-0.6.2-1.noarch/build/dist/pytest_env-0.6.2-py3-none-any.whl
+requests @ file:///pub/devel/python/python-requests/python-requests-2.25.1-1.noarch/build/dist/requests-2.25.1-py2.py3-none-any.whl
+simplejson==3.17.5
+six @ file:///pub/devel/python/python-six/python-six-1.15.0-1.noarch/build/dist/six-1.15.0-py2.py3-none-any.whl
+SQLAlchemy @ file:///pub/devel/python/python-sqlalchemy/python-sqlalchemy-1.3.22-1.x86_64/build/dist/SQLAlchemy-1.3.22-cp38-cp38-cygwin_3_1_7_x86_64.whl
+stgit==0.19
+traitlets==5.1.0
+urllib3 @ file:///pub/devel/python/python-urllib3/python-urllib3-1.26.2-1.noarch/build/dist/urllib3-1.26.2-py2.py3-none-any.whl
+virtualenv @ file:///pub/devel/python/python-virtualenv/python-virtualenv-20.2.2-1.noarch/build/dist/virtualenv-20.2.2-py2.py3-none-any.whl
+wcwidth==0.2.5
+Werkzeug==2.0.2
+WTForms==2.3.3
